@@ -10,7 +10,8 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
-          New changes added here 
+          New changes added here
+          
         </p>
         <p>
           <a
