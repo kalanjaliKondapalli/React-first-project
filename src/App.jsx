@@ -11,7 +11,7 @@ function App() {
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
           New changes added here
-          This is the first project
+          
         </p>
         <p>
           <a
