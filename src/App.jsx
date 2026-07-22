@@ -10,8 +10,10 @@ function App() {
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
+          <br/>
           New changes added here
-          
+          <br></br>
+          This is the first project in GitHub Codespaces. I am learning React and GitHub Codespaces.
         </p>
         <p>
           <a
