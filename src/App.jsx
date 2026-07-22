@@ -15,6 +15,9 @@ function App() {
           <br></br>
           This is the first project in GitHub Codespaces. I am learning React and GitHub Codespaces.
         </p>
+     <button>
+      I'm a button
+    </button>
         <p>
           <a
             className="App-link"
@@ -25,6 +28,28 @@ function App() {
             Learn React
           </a>
         </p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>workorder</th>
+              <th>lot</th>
+              <th>alloy</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>SW123123121</td>
+              <td>21043245011</td>
+              <td>C5A1</td>
+            </tr>
+             <tr>
+              <td>SW123123123</td>
+              <td>21043245012</td>
+              <td>C7A1</td>
+            </tr>
+          </tbody>
+        </table>
       </header>
     </div>
   );
